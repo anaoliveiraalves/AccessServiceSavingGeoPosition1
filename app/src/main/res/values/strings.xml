@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Registo de lugares visitados</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world"></string>
+    <string name="check_box_text1">público</string>
+    <string name="check_box_text2">pessoal</string>
+    <string name="group_text">Lugar de interesse</string>
+    <string name="button_text">Registar</string>
+    <string name="button_text2">Parar</string>
+    <string name="button_text3">Limpar</string>
+
+</resources>
